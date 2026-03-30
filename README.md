@@ -1,4 +1,10 @@
-Namme - Ujjwal kumar # BERT Tokenization Gap Project
+Namme - Ujjwal kumar Sah 
+
+Roll number -  23053857 
+Section - CSE -39
+Instructor- Dr. Sambit Paharaj
+
+# BERT Tokenization Gap Project
  ** Overview**
 
 This project explores the **limitations of WordPiece tokenization in BERT** and proposes improvements using alternative tokenization techniques.
