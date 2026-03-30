@@ -1,5 +1,6 @@
-Namme - Ujjwal kumar Sah 
+CSE39 NLP Assignment 2
 
+Name - Ujjwal kumar Sah 
 Roll number -  23053857 
 Section - CSE -39
 Instructor- Dr. Sambit Paharaj
